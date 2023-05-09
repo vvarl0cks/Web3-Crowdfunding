@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Epilogue:wght@400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background-color: #1c1c24;
+  --accent-color: #4a4a57;
+  --accent-color-hover: #3a3a43;
+}
+
+.dark-mode {
+  --background-color: #ffffff; 
+  --accent-color: #ffffff; 
+  --accent-color-hover: #ffffff;
+}
+
+.linear-gradient {
+  background: linear-gradient(
+    179.14deg,
+    rgba(32, 18, 63, 0) -7.14%,
+    #000000 87.01%
+  );
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  filter: invert(0.8);
+}
+
+html {
+  overflow-y: scroll;
+}
+
+/* styling the scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* track */
+::-webkit-scrollbar-track {
+  background: #1c1c24; /* Change this to match your theme's background color */
+  border-radius: 10px;
+}
+
+/* handle */
+::-webkit-scrollbar-thumb {
+  background: #4a4a57; /* Change this to match your theme's accent color */
+  border-radius: 10px;
+}
+
+/* handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #3a3a43; /* Change this to a slightly darker shade of your accent color */
+}
+
+/* firefox scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #4a4a57 #1c1c24; /* Change these colors to match your theme */
+}
