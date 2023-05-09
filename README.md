@@ -36,6 +36,6 @@ The website serves as the frontend for the crowdfunding platform and interacts w
 
 In summary, this crowdfunding platform is a well-structured and feature-rich application that demonstrates the potential of decentralized finance and blockchain technology. By leveraging smart contracts and the Ethereum network, it offers a secure, transparent, and efficient way for users to create and participate in crowdfunding campaigns.
 
-## <p align="left">WEB3WEEKEND (W3W) 🌎 https://web3weekend.asia
+## <p align="left">Web3 Weekend Asia 2023 (W3W) 🌎 https://web3weekend.asia
 
 <img src="https://i.postimg.cc/wjSnHP8P/Whats-App-Image-2023-04-27-at-12-34-46.jpg"/>
