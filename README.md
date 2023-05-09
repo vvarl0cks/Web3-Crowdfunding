@@ -5,7 +5,7 @@ This project is a crowdfunding platform built using React and Solidity. Based on
 
 ## Smart Contract
 
-The crowdfunding platform is powered by a smart contract deployed on the Sepolia Ethereum Testnet. The smart contract is written in Solidity and contains the main business logic of the platform. It has the following main features:
+The crowdfunding platform is powered by a smart contract deployed on the _**Sepolia Ethereum Testnet**_. The smart contract is written in Solidity and contains the main business logic of the platform. It has the following main features:
 
 1. **Create Campaign:** Allows a user to create a new crowdfunding campaign with specific details like title, description, target amount, deadline, and an image.
 2. **Donate:** Allows a user to donate Ether to a specific campaign.
