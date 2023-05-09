@@ -104,7 +104,7 @@ const CampaignDetails = () => {
                   />
                   <div className='my-[20px] p-4 bg-[#13131a] rounded-[10px]'>
                     <h3 className='font-epilogue font-semibold text-[16px] leading-[22px] text-white'>Back it because you believe in it</h3>
-                    <p className='mt-[20px] font-epilogue font-normal leading-[22px] text-[#808191]'>Support the project without any rewards, just because it seems unique to you.</p>
+                    <p className='mt-[20px] font-epilogue font-normal leading-[22px] text-[#808191]'>Support this campaign without any rewards, just because it seems worth to help.</p>
                   </div>
                   <CustomButton 
                     btnType='button'
