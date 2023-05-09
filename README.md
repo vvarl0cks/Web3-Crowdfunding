@@ -3,6 +3,8 @@
 This project is a crowdfunding platform built using React and Solidity. Based on the Sepolia Ethereum Testnet. Users can create, browse, and donate to crowdfunding campaigns.
 [Live Demo](https://w3w-crowdfunding-dapp.vercel.app)
 
+<img src="https://i.ibb.co/WszkkqJ/Opera-Snapshot-2023-05-09-115151-w3w-crowdfunding-dapp-vercel-app.png"/>
+
 ## Smart Contract
 
 The crowdfunding platform is powered by a smart contract deployed on the _**Sepolia Ethereum Testnet**_. The smart contract is written in Solidity and contains the main business logic of the platform. It has the following main features:
