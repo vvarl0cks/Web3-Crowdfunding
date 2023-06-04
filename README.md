@@ -1,11 +1,13 @@
-# Crowdfunding Platform Documentation
+# 💰 Web3 Crowdfunding dApps Platform Documentation
+> **We got number 3 from Top 30 Curated Ideas of Web3Weekend! 🎉 for [Web3 Crowdfunding dApps](https://github.com/vvarl0cks/Web3-Crowdfunding)! LFGGG !!** 🚀
+
 
 This project is a crowdfunding platform built using React and Solidity. Based on the Sepolia Ethereum Testnet using [Thirdweb SDK](https://thirdweb.com). Users can create, browse, and donate to crowdfunding campaigns.
 [Live Demo](https://w3w-crowdfunding-dapp.vercel.app)
 
 <img src="https://i.ibb.co/WszkkqJ/Opera-Snapshot-2023-05-09-115151-w3w-crowdfunding-dapp-vercel-app.png"/>
 
-## Smart Contract
+## ⛓ Smart Contract
 
 The crowdfunding platform is powered by a smart contract deployed on the _**Sepolia Ethereum Testnet**_. The smart contract is written in Solidity and contains the main business logic of the platform. It has the following main features:
 
@@ -16,7 +18,7 @@ The crowdfunding platform is powered by a smart contract deployed on the _**Sepo
 5. **Get Donations:** Retrieves all the donations made to a specific campaign.
 6. **Withdraw Funds:** Allows the campaign owner to see the collected funds and relevant cash-out information.
 
-## Website Capabilities
+## 👨‍💻 Website Capabilities
 
 The website serves as the frontend for the crowdfunding platform and interacts with the smart contract. The website's main features include:
 
@@ -27,7 +29,7 @@ The website serves as the frontend for the crowdfunding platform and interacts w
 5. **Payment:** Allows a user to donate to a specific campaign.
 6. **Withdraw:** Displays relevant cash-out information and how much the user has collected from their campaigns in total.
 
-## Key Points
+## 📝 Key Points
 
 1. The project makes use of the `@thirdweb-dev/react` library, which simplifies interactions with Ethereum blockchain and smart contracts.
 2. The `StateContext` is used to manage global state and provide easy access to the smart contract's functions throughout the application.
@@ -36,6 +38,11 @@ The website serves as the frontend for the crowdfunding platform and interacts w
 
 In summary, this crowdfunding platform is a well-structured and feature-rich application that demonstrates the potential of decentralized finance and blockchain technology. By leveraging smart contracts and the Ethereum network, it offers a secure, transparent, and efficient way for users to create and participate in crowdfunding campaigns.
 
-## <p align="left">Web3 Weekend Asia 2023 (W3W) 🌎 https://web3weekend.asia
+## 🏁 Web3 Weekend Asia 2023 (W3W) 🌎 https://web3weekend.asia
+  
+> **We got number 3 from Top 30 Curated Ideas of Web3Weekend! 🎉 for [Web3 Crowdfunding dApps](https://github.com/vvarl0cks/Web3-Crowdfunding)! LFGGG !!** 🚀
 
-<img src="https://i.postimg.cc/wjSnHP8P/Whats-App-Image-2023-04-27-at-12-34-46.jpg"/>
+<a href="https://twitter.com/Web3Weekend/status/1664935449805180930"><img src="https://iili.io/H4KE9vn.png" alt="H4KE9vn.png" border="0" /></a>
+
+
+## <p align="center">[🤖 Warlocks!](http://warlocks.netlify.app)
